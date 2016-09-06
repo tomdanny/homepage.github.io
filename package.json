@@ -1,0 +1,19 @@
+{
+  "name": "kangil",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server"
+  },
+  "author": {
+    "name": "Kangil Lee"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "~4.11.1",
+    "jquery": "^3.1.0",
+    "morgan": "~1.5.1"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
